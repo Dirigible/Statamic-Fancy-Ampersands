@@ -1,5 +1,5 @@
 # Statamic-Fancy-Ampersands
-Turn those boring old ampersands into the stunning conjunctions of your dreams.
+Turn those boring old ampersands into the stunning conjunctions of your dreams.  A plugin for [Statamic](http://statamic.com) (v1).
 
 ![](http://than.to/1en0L.png)
 
